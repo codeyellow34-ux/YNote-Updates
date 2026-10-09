@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "channel": "stable",
+  "channel": "test",
   "active": false,
-  "releaseId": "stable-notice-disabled",
+  "releaseId": "test-notice-disabled",
   "version": "0.9.12.2501",
   "patchNotes": []
 }
