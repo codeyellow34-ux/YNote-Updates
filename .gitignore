@@ -1,0 +1,5 @@
+# Notice-only repository: ignore everything unless explicitly allowed.
+/*
+!/latest.json
+!/README.md
+!/.gitignore
